@@ -1,4 +1,4 @@
-# Final
+# Simple Recommender
 ## Unstructured Final Project
 
 ### Data Flinging
